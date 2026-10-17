@@ -1,0 +1,89 @@
+{
+  "terrain": {
+    "bahay": "terrain/bahay.svg",
+    "icon-bahay": "terrain/icon-bahay.svg",
+    "puno": "terrain/puno.svg",
+    "icon-puno": "terrain/icon-puno.svg",
+    "palayan": "terrain/palayan.svg",
+    "icon-palayan": "terrain/icon-palayan.svg",
+    "ilog": "terrain/ilog.svg",
+    "icon-ilog": "terrain/icon-ilog.svg",
+    "tindahan": "terrain/tindahan.svg",
+    "icon-tindahan": "terrain/icon-tindahan.svg",
+    "halamanan": "terrain/halamanan.svg",
+    "icon-halamanan": "terrain/icon-halamanan.svg"
+  },
+  "pets": {
+    "aso": "pets/aso.svg",
+    "token-aso": "pets/token-aso.svg",
+    "hidden-aso": "pets/hidden-aso.svg",
+    "pusa": "pets/pusa.svg",
+    "token-pusa": "pets/token-pusa.svg",
+    "hidden-pusa": "pets/hidden-pusa.svg",
+    "manok": "pets/manok.svg",
+    "token-manok": "pets/token-manok.svg",
+    "hidden-manok": "pets/hidden-manok.svg"
+  },
+  "overlays": {
+    "bakas-0": "overlays/bakas-0.svg",
+    "bakas-1": "overlays/bakas-1.svg",
+    "bakas-2": "overlays/bakas-2.svg",
+    "bakas-3": "overlays/bakas-3.svg",
+    "target": "overlays/target.svg",
+    "found": "overlays/found.svg",
+    "selected-cell": "overlays/selected-cell.svg",
+    "selected-line": "overlays/selected-line.svg"
+  },
+  "neighbours": {
+    "purok": "neighbours/purok.svg",
+    "lupa": "neighbours/lupa.svg",
+    "init": "neighbours/init.svg",
+    "tanaw": "neighbours/tanaw.svg",
+    "card-back": "neighbours/card-back.svg"
+  },
+  "answers": {
+    "mainit": "answers/mainit.svg",
+    "maligamgam": "answers/maligamgam.svg",
+    "malamig": "answers/malamig.svg",
+    "oo": "answers/oo.svg",
+    "hindi": "answers/hindi.svg",
+    "purok-1": "answers/purok-1.svg",
+    "purok-2": "answers/purok-2.svg",
+    "purok-3": "answers/purok-3.svg",
+    "purok-4": "answers/purok-4.svg"
+  },
+  "icons": {
+    "maghanap": "icons/maghanap.svg",
+    "magtanong": "icons/magtanong.svg",
+    "kuwaderno": "icons/kuwaderno.svg",
+    "tulong": "icons/tulong.svg",
+    "araw": "icons/araw.svg",
+    "buwan": "icons/buwan.svg",
+    "orasan": "icons/orasan.svg",
+    "bakas": "icons/bakas.svg",
+    "sound-on": "icons/sound-on.svg",
+    "sound-off": "icons/sound-off.svg",
+    "rules": "icons/rules.svg",
+    "trophy": "icons/trophy.svg",
+    "robot": "icons/robot.svg",
+    "home": "icons/home.svg",
+    "restart": "icons/restart.svg",
+    "players": "icons/players.svg",
+    "check": "icons/check.svg",
+    "close": "icons/close.svg"
+  },
+  "decor": {
+    "sky-track": "decor/sky-track.svg",
+    "banderitas-tile": "decor/banderitas-tile.svg",
+    "bg-grass": "decor/bg-grass.svg"
+  },
+  "board": {
+    "frame": "board/frame.svg"
+  },
+  "scenes": {
+    "logo": "scenes/logo.svg",
+    "hero": "scenes/hero.svg",
+    "panalo": "scenes/panalo.svg",
+    "talo": "scenes/talo.svg"
+  }
+}
